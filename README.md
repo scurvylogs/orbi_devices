@@ -17,3 +17,4 @@
 * Tested on router firmware version V2.5.2.4
 * Most likely will not work in older versions and likely to break in newer releases
 * Report issues with the code in the github repository
+* GNU GPL v3 license
